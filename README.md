@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🔭 I’m currently studying at Xi'an Jiaotong University, China.
-- 🌱 I’m currently learning Robotics.
+- 🌱 I’m currently learning robotics.
+- 🤔 I’m looking for PhD positions in robotics.
+- 📫 My personal email: [siyuanwu99@gmail.com](mailto:siyuanwu99@gmail.com)
 
 ![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=calm)
