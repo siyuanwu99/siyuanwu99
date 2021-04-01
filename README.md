@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying at Xi'an Jiaotong University, China.
+- 🔭 I’m currently studying at [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China.
+- 🔭 I will continue my graduate study at [Technische Universiteit Delft (MSc Robotics)](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/).
 - 🌱 I’m currently learning robotics.
 - 🤔 I’m looking for PhD positions in robotics.
 - 📫 My personal email: [siyuanwu99@gmail.com](mailto:siyuanwu99@gmail.com)
