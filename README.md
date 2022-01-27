@@ -20,4 +20,16 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for PhD positions in robotics（especially in robot planning). If you are interested in my background and have some available positions, please let me know!!! 😄️
 - 🖋️ I'm open to any discussions. If you have any question about robotics, please feel free to contact me. 📫 [siyuanwu99@gmail.com](mailto:siyuanwu99@gmail.com)
 
+
+### Highlights
+
+Here are some robotics projects I'd like to show you!
+
+
+| [Fast-Dynamic-Vision](https://github.com/ZJU-FAST-Lab/FAST-Dynamic-Vision) | [k-PRM planner](https://github.com/edmundwsy/RO47005-PDM-Final) |
+|---|---|
+<img src="./figs/fast-dv.gif" alt="vo_lausanne_center_nav" style="zoom: 42%;" /> | <img src="./figs/kprm.gif" alt="kprm" style="zoom: 20%;" /> |
+
+---
+
 ![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=calm)
