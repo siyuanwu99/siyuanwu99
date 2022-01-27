@@ -28,7 +28,7 @@ Here are some robotics projects I'd like to show you!
 
 | [Fast-Dynamic-Vision](https://github.com/ZJU-FAST-Lab/FAST-Dynamic-Vision) | [k-PRM planner](https://github.com/edmundwsy/RO47005-PDM-Final) |
 |---|---|
-<img src="./figs/fast-dv.gif" alt="vo_lausanne_center_nav" style="zoom: 42%;" /> | <img src="./figs/kprm.gif" alt="kprm" style="zoom: 20%;" /> |
+<img src="./figs/fast-dv.gif" alt="vo_lausanne_center_nav" style="zoom: 52%;" /> | <img src="./figs/kprm.gif" alt="kprm" style="zoom: 20%;" /> |
 
 ---
 
