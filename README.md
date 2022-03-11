@@ -33,9 +33,16 @@ Here are some robotics projects I'd like to show you!
 <img src="./figs/fast-dv.gif" alt="fast-dv" style="zoom: 52%;" /> | <img src="./figs/kprm.gif" alt="kprm" style="zoom: 20%;" /> |
 
 ---
-
-![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=calm)
-
+<a href="https://github.com/edmundwsy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=swift&layout=compact" />
+</a>
+<a href="https://github.com/edmundwsy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundwsy&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
+</a>
+<!-- 
+![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=swift&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmundwsy&hide=javascript,html,cmake,tex&layout=compact&theme=swift)
+ -->
 <a href="mailto:edmundwsy@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <a href="mailto:siyuanwu99@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a href="https://www.linkedin.com/in/siyuanwu99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
