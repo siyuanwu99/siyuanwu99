@@ -34,17 +34,19 @@ Here are some robotics projects I'd like to show you!
 
 ---
 <a href="https://github.com/edmundwsy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=swift&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundwsy&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
 </a>
 <a href="https://github.com/edmundwsy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundwsy&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
 </a>
 
 <!-- 
-![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&theme=swift&layout=compact)
+![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&hide=prs,contribs&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmundwsy&hide=javascript,html,cmake,tex&layout=compact&theme=swift)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmundwsy)
  -->
  
+<!--  ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmundwsy&layout=compact&theme=swift) -->
  
 <a href="mailto:edmundwsy@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <a href="mailto:siyuanwu99@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
