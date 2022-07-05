@@ -28,10 +28,10 @@ I started my MSc Robotics study at 🏫️[Technische Universiteit Delft (MSc Ro
 Here are some robotics projects I'd like to show you!
 
 
-| [Fast-Dynamic-Vision](https://github.com/ZJU-FAST-Lab/FAST-Dynamic-Vision) | <img src="./figs/fast-dv.gif" alt="fast-dv" width=300 />  |
+| [Fast-Dynamic-Vision](https://github.com/ZJU-FAST-Lab/FAST-Dynamic-Vision) | <img src="./figs/fast-dv.gif" alt="fast-dv" width=400 />  |
 |---|---|
-|[k-PRM planner](https://github.com/edmundwsy/RO47005-PDM-Final)  | <img src="./figs/kprm.gif" alt="kprm" width=300 /> |
-|[RAST corridor planning](https://github.com/edmundwsy/RAST-corridor-planning) | <img src="./figs/rast.gif" alt="rast" width=300 /> |
+|[k-PRM planner](https://github.com/edmundwsy/RO47005-PDM-Final)  | <img src="./figs/kprm.gif" alt="kprm" width=400 /> |
+|[RAST corridor planning](https://github.com/edmundwsy/RAST-corridor-planning) | <img src="./figs/rast.gif" alt="rast" width=400 /> |
 
 ---
 <a href="https://github.com/edmundwsy">
