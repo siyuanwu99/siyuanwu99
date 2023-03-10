@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ✨ Let's explore something interesting together~
 - 🖋️ I am pursuing my MSc Robotics degree at 🏫️[Technische Universiteit Delft (MSc Robotics)](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from September, 2021. Previously I obtained my Bachelor's degree in Automation (Qian Xuesen's class, with honor) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/), China. In 2020 I was a visiting student in 🏫️University of Edinburgh.
 
-- 🌱 As a new learner to robotics, I am interested in **MAVs**(drones), **motion planning**, **MPC** and **reinforcement learning**.
+- 🌱 As a new learner to robotics, I am interested in **drones**, **planning**, **optimal control** and **optimization**.
 - 🔭 Now I am working on **MAV planning in dynamic environment** at TU Delft.  In 2021 I worked on **event-based vision** as my bachelor thesis, supervised by Dr. Fei Gao, at [FAST](http://www.zju-fast.com/) lab, 🏫️Zhejiang University. *We did a lot of cool things to push the boundary of quadrotors there!*
 - 🤔 I’m looking for PhD positions in robotics（especially in robot planning). If you are doing the same thing, feel free to talk to me. 
 - 💬 I'm open to any academic discussions. If you have any question about my project, please feel free to let me know. 
