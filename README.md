@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ✨ Let's explore something interesting together~
 - 🖋️ I am pursuing my MSc Robotics degree at 🏫️[TU Dleft (MSc Robotics)](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from September, 2021. Previously I obtained my Bachelor's degree in Automation (Qian Xuesen's class, with honors) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), China. In 2020 I was a visiting student in 🏫️University of Edinburgh studying Informatics.
 
-- 🌱 As a new learner to robotics, I am interested in **drones**, **planning**, **optimal control** and **optimization**.
-- 🔭 Now I am working on **multi-MAV planning in dynamic environments** at TU Delft.  In 2021 I worked on **event-based perception** as my bachelor thesis, supervised by Dr. Fei Gao, at [FAST](http://www.zju-fast.com/) lab, 🏫️Zhejiang University. I originally intended to stay in Delft to continue working on multi-robot motion planning after graduation, but had to abandon the plan due to failing the background check conducted by the Dutch government.
+- 🌱 As a new learner to robotics, I am interested in **drones**, **motion planning**, **optimal control** and **optimization**.
+- 🔭 Now I am working on **multi-MAV planning in dynamic environments** at TU Delft.  I originally intended to continue working on multi-robot motion planning at Delft after graduation, but had to abandon the plan due to failing the security screening conducted by the Dutch government. In 2021 I worked on **event-based perception** as my bachelor thesis, supervised by Dr. Fei Gao, at [FAST](http://www.zju-fast.com/) lab, 🏫️Zhejiang University. 
 - 💬 I’m looking for PhD positions in robotics（especially in robot planning). I’m always up for academic discussions and collaborations! Feel free to contact me with any questions and let’s make progress together!
 
 
