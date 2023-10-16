@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✨ Let's explore something interesting together~
-- 🖋️ I am pursuing my MSc Robotics degree at 🏫️[TU Dleft (MSc Robotics)](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from September, 2021. Previously I obtained my Bachelor's degree in Automation (Qian Xuesen's class, with honors) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), China. In 2020 I was a visiting student in 🏫️University of Edinburgh studying Informatics.
+- 🖋️ I have been working as a research assistant on **multi-robot systems** and **motion planning** at [SYSU-STAR](http://sysu-star.com/) group since 09/2023. Previously I obtained MSc Robotics degree at 🏫️[TU Dleft](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from 09/2021 to 08/2023, and finished my Bachelor's study in Automation (Qian Xuesen's class, with honors) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), China. I finished my Bachelor's thesis on **event-based perception** supervised by Dr. Fei Gao at [FAST](http://www.zju-fast.com/) lab. In 2020 I was a visiting student studying Informatics at 🏫️University of Edinburgh.
 
-- 🌱 As a new learner to robotics, I am interested in **drones**, **motion planning**, **optimal control** and **optimization**.
-- 🔭 Now I am working on **multi-MAV planning in dynamic environments** at TU Delft.  I originally intended to continue working on multi-robot motion planning at Delft after graduation, but had to abandon the plan due to failing the security screening conducted by the Dutch government. In 2021 I worked on **event-based perception** as my bachelor thesis, supervised by Dr. Fei Gao, at [FAST](http://www.zju-fast.com/) lab, 🏫️Zhejiang University. 
-- 💬 I’m looking for PhD positions in robotics（especially in robot planning). I’m always up for academic discussions and collaborations! Feel free to contact me with any questions and let’s make progress together!
+- 🌱 As a new learner of robotics, I am interested in **drones**, **motion planning**, **multi-robot systems**, **optimal control**, and **optimization**.
+- 🔭 I originally intended to continue working on multi-robot motion planning as a Ph.D. student at TU Delft after graduation but had to abandon the plan due to failing the security screening conducted by the Dutch government.
+- 💬 I’m looking for PhD positions in robotics (especially in robot planning). I’m always up for academic discussions and collaborations! Feel free to contact me with any questions and let’s make progress together!
 
 
 <!-- ### Highlights -->
