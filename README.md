@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**edmundwsy/edmundwsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**siyuanwu99/siyuanwu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,24 +29,24 @@ Here are some ideas to get you started:
 
 <!-- | [Fast-Dynamic-Vision](https://github.com/ZJU-FAST-Lab/FAST-Dynamic-Vision) | <img src="./figs/fast-dv.gif" alt="fast-dv" width=400 />  |
 |---|---|
-|[k-PRM planner](https://github.com/edmundwsy/RO47005-PDM-Final)  | <img src="./figs/kprm.gif" alt="kprm" width=400 /> |
-|[RAST corridor planning](https://github.com/edmundwsy/RAST_corridor_planning ) | <img src="./figs/rast.gif" alt="rast" width=400 /> | -->
+|[k-PRM planner](https://github.com/siyuanwu99/RO47005-PDM-Final)  | <img src="./figs/kprm.gif" alt="kprm" width=400 /> |
+|[RAST corridor planning](https://github.com/siyuanwu99/RAST_corridor_planning ) | <img src="./figs/rast.gif" alt="rast" width=400 /> | -->
 
 ---
-<a href="https://github.com/edmundwsy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=edmundwsy&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
+<a href="https://github.com/siyuanwu99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanwu99&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
 </a>
-<a href="https://github.com/edmundwsy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edmundwsy&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
+<a href="https://github.com/siyuanwu99">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanwu99&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
 </a>
 
 <!-- 
-![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=edmundwsy&count_private=true&show_icons=true&hide=prs,contribs&theme=swift)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edmundwsy&hide=javascript,html,cmake,tex&layout=compact&theme=swift)
-![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmundwsy)
+![Siyuan's github stats](https://github-readme-stats.vercel.app/api?username=siyuanwu99&count_private=true&show_icons=true&hide=prs,contribs&theme=swift)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanwu99&hide=javascript,html,cmake,tex&layout=compact&theme=swift)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siyuanwu99)
  -->
  
-<!--  ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edmundwsy&layout=compact&theme=swift) -->
+<!--  ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=siyuanwu99&layout=compact&theme=swift) -->
  
 <a href="mailto:edmundwsy@outlook.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 <a href="mailto:siyuanwu99@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
