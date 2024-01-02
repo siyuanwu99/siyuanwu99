@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 <a href="https://github.com/siyuanwu99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanwu99&hide_rank=true&count_private=true&show_icons=true&theme=swift&show_icons=true&hide=prs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanwu99&hide_rank=true&count_private=false&show_icons=true&theme=swift&show_icons=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/siyuanwu99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanwu99&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
