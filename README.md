@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✨ Let's explore something interesting together~
-- 🖋️ I have been working as a research assistant on **multi-robot systems** and **motion planning** at [SYSU-STAR group](http://sysu-star.com/) since 09/2023. Previously I obtained MSc Robotics degree advised by Dr. Javier Alonso-Mora at 🏫️[TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from 09/2021 to 08/2023, and finished my Bachelor's study in Automation (Qian Xuesen's class, with honors) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), China. I finished my Bachelor's thesis on **event-based perception** supervised by Dr. Fei Gao at [FAST Lab](http://www.zju-fast.com/). In 2020 I was a visiting student studying Informatics at 🏫️University of Edinburgh.
+- 🖋️ I have been working as a research assistant on **multi-robot systems** and **motion planning** at [SYSU-STAR group](http://sysu-star.com/) since 09/2023. Previously I obtained MSc Robotics degree advised by Dr. Javier Alonso-Mora at 🏫️[TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from 09/2021 to 08/2023, and finished my Bachelor's study in Automation (Qian Xuesen's class, with honors) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), China. I finished my Bachelor's thesis on **event-based perception** supervised by Dr. Fei Gao at [ZJU FAST Lab](http://www.zju-fast.com/). In 2020 I was a visiting student studying Informatics at 🏫️University of Edinburgh.
 
 - 🌱 As a new learner of robotics, I am interested in **drones**, **motion planning**, **multi-robot systems**, **optimal control**, and **optimization**.
 - 🔭 I originally intended to continue working on multi-robot motion planning as a Ph.D. student at TU Delft after graduation but had to abandon the plan due to failing the security screening conducted by the Dutch government.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 <a href="https://github.com/siyuanwu99">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanwu99&hide_rank=true&count_private=false&show_icons=true&theme=swift&show_icons=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=siyuanwu99&count_private=true&show_icons=true&hide_title=true&hide_rank=true&include_all_commits=true&disable_animations=true&theme=swift" />
 </a>
 <a href="https://github.com/siyuanwu99">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siyuanwu99&hide=javascript,html,cmake,tex&layout=compact&theme=swift" />
