@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✨ Let's explore something interesting together~
+<!--
 - 🖋️ I am soon to start my PhD at the [Learning Systems and Robotics (LSY) Lab](https://www.ce.cit.tum.de/lsy/home/) at [TUM](https://www.tum.de/), subject to the approval of my German visa application. Currently, I am working as a research assistant on **motion planning** at [SYSU-STAR group](http://sysu-star.com/).
 -  Previously I obtained MSc Robotics degree advised by Dr. Javier Alonso-Mora at 🏫️[TU Delft](https://www.tudelft.nl/onderwijs/opleidingen/masters/rb/msc-robotics/) from 09/2021 to 08/2023, and finished my Bachelor's study in Automation (Qian Xuesen's class, with honors) in 2021 from 🏫️[Xi'an Jiaotong University](http://en.xjtu.edu.cn/)(XJTU), China. I finished my Bachelor's thesis on **event-based perception** supervised by Dr. Fei Gao at [ZJU FAST Lab](http://www.zju-fast.com/). In 2020 I was a visiting student studying Informatics at 🏫️University of Edinburgh.
+-->
 
 - 🌱 As a new learner of robotics, I am interested in **drones**, **motion planning**, **multi-robot systems**, **optimal control**, and **optimization**.
+<!--
 - 🔭 I originally intended to continue working on multi-robot motion planning as a Ph.D. student at TU Delft after graduation but had to abandon the plan due to failing the security screening conducted by the Dutch government.
+-->
 - 💬 I’m looking for PhD positions in robotics (especially in robot planning). I’m always up for academic discussions and collaborations! Feel free to contact me with any questions and let’s make progress together!
 
 
